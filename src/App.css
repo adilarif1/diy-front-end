@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+#test{width: 50%; height: 50%; float: left;}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
